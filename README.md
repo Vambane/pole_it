@@ -1,4 +1,6 @@
-# pole_it
+# Pole strppd
+
+I am building a poling app, I will also be using other peoples repos. I will credit everyone that helps. If you find this repo and have ideas on how we can improve it 'shout'
 
 A new Flutter project.
 
